@@ -7,7 +7,7 @@
 - Diseño UX / UI.
 - Figma.
 - React.
-### 📫 Me podés encontrar en: :earth_americas:  [impulsainternet.com/ruscica](https://www.impulsainternet.com/ruscica)   💬 **CTRL + Click** *para abrir en nueva pestaña :arrow_upper_right:*
+### 📫 Me podés encontrar en: :earth_americas:  [ruscica.com.ar](https://www.ruscica.com.ar)   💬 **CTRL + Click** *para abrir en nueva pestaña :arrow_upper_right:*
 ### Y en estas redes:
 - :office: [Mi perfíl en Linkedin](https://www.linkedin.com/in/cesar-hernan-ruscica/)
 - :art: [Mi perfíl en FrontendMentor](https://www.frontendmentor.io/profile/hernanruscica)
